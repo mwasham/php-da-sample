@@ -16,6 +16,7 @@
 					<label for="content" class="col-sm-2 control-label">Content</label>
 					<div class="col-sm-10"><textarea class="form-control" name="content" id="content" placeholder="Content"></textarea></div>
 				</div>
+
 				<div class="form-group">
 					<label for="mediaFile" class="col-sm-2 control-label">Media</label>
 					<!--

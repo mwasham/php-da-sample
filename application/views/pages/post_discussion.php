@@ -16,18 +16,16 @@
 					<label for="content" class="col-sm-2 control-label">Content</label>
 					<div class="col-sm-10"><textarea class="form-control" name="content" id="content" placeholder="Content"></textarea></div>
 				</div>
-
+				<!--
 				<div class="form-group">
 					<label for="mediaFile" class="col-sm-2 control-label">Media</label>
-					<!--
-                    <div class="col-sm-10"><input type="file" class="form-control" name="media" id="media" placeholder="Image/Video" value="" accept="video/*|image/*|MIME_type"></div>
-                    -->
+
                     <div style="position:relative;">
                         <a class="btn btn-primary chooseMediaFile" id="chooseMediaFile" href='javascript:;'>Choose File...</a>
                         <input type="file" class="mediaFile" name="mediaFile" id="mediaFile" />
                     </div>
 				</div>
-                
+                -->
                 <div class="form-group">
                     <label for="" class="col-sm-2 control-label"></label>
                     <div class="col-sm-10"><span class='label label-info' id="uploadFileInfo"></span></div>

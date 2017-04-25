@@ -25,7 +25,7 @@
                         <input type="file" class="mediaFile" name="mediaFile" id="mediaFile" />
                     </div>
 				</div>
-                -->
+                
                 <div class="form-group">
                     <label for="" class="col-sm-2 control-label"></label>
                     <div class="col-sm-10"><span class='label label-info' id="uploadFileInfo"></span></div>
@@ -35,6 +35,7 @@
 					<label for="mediaDescription" class="col-sm-2 control-label">Description</label>
 					<div class="col-sm-10"><input type="text" class="form-control" name="mediaDescription" id="mediaDescription" placeholder="Description" /></div>
 				</div>
+				-->
 				<div class="form-group">
 					<div class="col-sm-offset-2 col-sm-10">
 						<button type="submit" class="btn btn-primary" id="btnSubmit">Post</button>
